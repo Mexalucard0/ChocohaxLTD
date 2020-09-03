@@ -1,0 +1,8 @@
+Welcome to STEP 2
+
+Move rename folder into your resource folder
+Rename this folder to whatever you want... for example: lolihunter
+
+Configure your anticheat in tables and configs folder
+
+Go to STEP 3
