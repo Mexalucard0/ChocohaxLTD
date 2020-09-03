@@ -1,0 +1,13 @@
+First of all, we need to scramble your triggers, to protect your events from lua injections...
+Put windows.bat and replace.py into your resources folder
+
+Download Python from ninite.com (if you already have installed Python on your pc, uninstall it and download that version...)
+
+Run windows.bat
+Write "Y" and press Enter
+Write something unique... for example: hentai and press Enter
+
+Wait for the CMD to close, and go to STEP 2
+
+
+REMEMBER ME! : REMOVE ANY OTHER ANTICHEAT BEFORE DOING THIS STEP!
